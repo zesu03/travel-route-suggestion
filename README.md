@@ -1,1 +1,3 @@
-# travel-route-suggestion
+# Travel_Route_Suggetsting_System
+This project basically gives you minimum path between 2 cities. For sack of understanding I took 10 major cities in Maharashtra with their distances.The project is totally in C++ programming language and based on Graph data structure.I have used here famous Dijkstra's algorithm(gives minimum path value in weighted graph) .
+Sometime due to maintainance of roads , the roads are not allowed for travelling.In that case, minimum path can be different, so system will accordingly update path.There is also provision to update newly created roads  between two cities and accordingly system will suggest efficient path. 
